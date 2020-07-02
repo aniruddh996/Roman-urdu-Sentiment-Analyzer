@@ -16,7 +16,7 @@ Understanding an overview of wider public opinion behind certain topics is essen
   
 ### Links
 1. For Web templates with CSS,JS files go to: https://materializecss.com/getting-started.html
-2. For Data I have already added the CSV file. But for more information on the data, go to: https://archive.ics.uci.edu/ml/datasets/Roman+Urdu+Data+Set for more information.
+2. For the Data, I have already added the CSV file. But for more information on the data, go to: https://archive.ics.uci.edu/ml/datasets/Roman+Urdu+Data+Set for more information.
 
  
 
